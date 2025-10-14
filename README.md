@@ -1,2 +1,2 @@
 # OPV-ML-2025
-Code Summary for the OPV Paper
+Code used in the paper on OPV material prediction using ML
